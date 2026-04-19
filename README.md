@@ -1,1 +1,1 @@
-# prthon
+# python
